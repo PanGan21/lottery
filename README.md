@@ -1,0 +1,2 @@
+# lottery
+ethereum lottery contract
